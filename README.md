@@ -2,7 +2,7 @@
 Demo how idb live stream captured using minicap format
 
 ### Requirements
-* idb & idb_companion
+* idb [git repo](https://github.com/facebook/idb)
 * NodeJS
 
 ### Install Dependencies
