@@ -10,6 +10,6 @@ Demo how idb live stream captured using minicap format
 
 ### Run
 Before running project you need to connect device using following command 
-* ```idb connect```
+* ```idb connect ${udid}```
 * then run project ```node app.js```
 * Now open ```http://localhost:9002``` in your browser and wait for screen to appear.
